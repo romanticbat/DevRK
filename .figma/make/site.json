@@ -1,0 +1,10 @@
+{
+  "description": "Manage library operations efficiently with a user-friendly platform for librarians and readers, enabling book tracking, borrowing, and user management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
