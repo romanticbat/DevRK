@@ -24,7 +24,6 @@ O sistema será desenvolvido utilizando uma arquitetura organizada em camadas, b
 * Pedro Quintino
 * Richard Nunes
 
-> Os nomes dos demais integrantes serão adicionados posteriormente.
 
 ## Objetivo
 
